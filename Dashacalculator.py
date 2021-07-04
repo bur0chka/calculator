@@ -302,6 +302,7 @@ def sevenPrint():
         textWindow['text'] = number
 
 def eightPrint():
+    """Функция, которая печатает восемь"""
     global number
     global number2
     if textWindow['text'] == '0':
