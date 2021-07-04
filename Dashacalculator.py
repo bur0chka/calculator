@@ -10,7 +10,9 @@ otvet = '0'
 number = '0'
 number2 = '0'
 
+
 def onePrint():
+    """Функция для печатания единицы"""
     global number
     global number2
     if textWindow['text'] == '0':
